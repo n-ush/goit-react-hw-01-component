@@ -1,6 +1,5 @@
 .friendList {
   display: flex;
-  justify-content: space-evenly;
 }
 
 .item {
@@ -12,4 +11,5 @@
   margin-bottom: 20px;
   padding: 20px;
   background-color: #e9e5e5;
+  margin-right: 20px;
 }
