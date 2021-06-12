@@ -10,12 +10,11 @@
 }
 
 .description {
- text-align: center;
- margin-bottom: 30px;
- 
+  text-align: center;
+  margin-bottom: 30px;
 }
 
-.avatar{
+.avatar {
   width: 130px;
   height: 130px;
   border-radius: 50%;
@@ -24,30 +23,30 @@
   margin-right: auto;
 }
 
-.name{
+.name {
   font-size: 30px;
   font-weight: 700;
   margin-bottom: 20px;
 }
 
-.tag{
+.tag {
   font-size: 20px;
   font-weight: 600;
   color: grey;
   margin-bottom: 10px;
 }
 
-.location{
-font-size: 20px;
-font-weight: 600;
+.location {
+  font-size: 20px;
+  font-weight: 600;
   color: grey;
 }
 
-.stats{
+.stats {
   display: flex;
 }
 
-.item{
+.item {
   flex-basis: calc(100% / 3);
   border: 1px solid grey;
   text-align: center;
@@ -56,13 +55,13 @@ font-weight: 600;
   background-color: #d8d5d5;
 }
 
-.label{
+.label {
   font-size: 20px;
   color: grey;
   display: block;
 }
 
-.quantity{
+.quantity {
   font-size: 25px;
   font-weight: 700;
 }
